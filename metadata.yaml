@@ -1,0 +1,37 @@
+_repo: Cavalry-Curt-Or-The-Wizard-Scout-of-the-Army_67404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, George Waldo
+    aliases:
+    - Browne, George W. (George Waldo)
+    - Saint Clair, Victor
+    - Browne, G. Waldo (George Waldo)
+    - Clair, Victor St.
+    birthdate: 1851
+    deathdate: 1930
+    gutenberg_agent_id: '37233'
+    url: http://www.gutenberg.org/2009/agents/37233
+description: ''
+gutenberg_issued: '2022-02-14'
+identifiers:
+  gutenberg: '67404'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:324703
+pgterms:marc905: 20210117184630browne
+pgterms:marc906: '1892'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Chas. D. Sibley & Son,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Gem library, v. 1, no. 11.
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Cavalry Curt; Or, The Wizard Scout of the Army
+url: http://www.gutenberg.org/ebooks/67404
